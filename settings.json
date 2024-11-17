@@ -51,7 +51,6 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    "workbench.colorTheme": "JellyFish",
     "vscode-pets.theme": "forest",
     "python.analysis.addImport.exactMatchOnly": true,
     "python.analysis.autoFormatStrings": true,
